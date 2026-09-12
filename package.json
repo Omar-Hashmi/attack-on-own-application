@@ -1,0 +1,5 @@
+{
+  "name": "papertrail-security-audit",
+  "private": true,
+  "scripts": { "start": "node src/server.js", "test": "node --test" }
+}
